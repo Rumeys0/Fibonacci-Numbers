@@ -1,5 +1,5 @@
 # First Python Code
-# Fibonacci-Numbers
+## Fibonacci-Numbers
 
 This repository includes my first Python code written using Jupyter Notebook.
 
